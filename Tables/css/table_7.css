@@ -1,0 +1,13 @@
+table {
+  margin-top: 15px;
+  border: 4px double black;
+}
+thead,
+tbody,
+tfoot {
+  border: 1px solid black;
+}
+td:not(:first-child) {
+  text-align: right;
+  min-width: 25px;
+}

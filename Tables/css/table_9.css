@@ -1,0 +1,18 @@
+table {
+  margin-top: 15px;
+  border-collapse: collapse;
+}
+th {
+  border: 1px solid black;
+}
+td {
+  border: 1px solid black;
+  width: 15px;
+}
+/* th:first-child,
+th:nth-child(5) {
+  height: 25%;
+}
+th:nth-child(7) {
+  height: 50%;
+} */

@@ -1,0 +1,22 @@
+table {
+  margin-top: 15px;
+  border-collapse: collapse;
+}
+caption {
+  margin-bottom: 10px;
+}
+th {
+  border: 1px solid black;
+  padding: 8px;
+}
+td {
+  border: 1px solid black;
+  padding: 5px;
+  text-align: center;
+}
+td:first-child {
+  text-align: left;
+}
+/* tr:first-child {
+  text-align: left;
+} */

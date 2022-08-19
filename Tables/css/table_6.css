@@ -1,0 +1,17 @@
+table {
+  margin-top: 15px;
+  border: 1px solid black;
+}
+th,
+td {
+  border: 1px solid black;
+}
+th {
+  width: 70px;
+}
+th:first-child {
+  width: 120px;
+}
+td:last-child {
+  text-align: center;
+}

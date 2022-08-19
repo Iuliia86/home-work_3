@@ -1,0 +1,13 @@
+.container {
+  text-align: center;
+  margin-top: 10px;
+}
+/* img {
+  max-width: 980px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.7);
+  padding: 0.5em;
+  border-radius: 15px;
+} */
+div {
+  font-size: 1.2em;
+}

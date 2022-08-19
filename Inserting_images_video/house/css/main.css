@@ -1,0 +1,9 @@
+.container {
+  text-align: center;
+  margin-top: 10px;
+}
+a {
+  color: rgb(82, 84, 86);
+  text-decoration: none;
+  font-size: 20px;
+}

@@ -1,0 +1,22 @@
+table {
+  margin-top: 15px;
+  border-collapse: collapse;
+}
+thead td {
+  border: 1px solid black;
+  text-align: center;
+  width: 100px;
+}
+thead td:nth-child(2) {
+  width: 40px;
+}
+tbody {
+  border: 1px solid black;
+}
+tbody td {
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+}
+tbody td:not(:first-child) {
+  text-align: center;
+}

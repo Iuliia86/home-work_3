@@ -1,0 +1,40 @@
+.container {
+  position: relative;
+}
+table {
+  border: 2px solid #ccc;
+  border-radius: 20px;
+  background-image: url(https://kartinkin.net/uploads/posts/2021-07/1627172412_23-kartinkin-com-p-neitralnii-fon-dlya-menyu-krasivo-24.jpg);
+  position: absolute;
+  left: 50%;
+  margin-right: -50%;
+  transform: translateX(-50%);
+}
+img {
+  width: 200px;
+  margin: 5px;
+  padding: 3px;
+  border-radius: 50%;
+  box-shadow: 10px 5px 5px rgb(151, 143, 143);
+}
+caption {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 2em;
+  margin: 20px;
+}
+th {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 1.7em;
+  padding: 25px;
+}
+td {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 1.5em;
+  padding: 10px;
+}
+td:last-child {
+  text-align: center;
+}
+div {
+  font-size: 1.3em;
+}

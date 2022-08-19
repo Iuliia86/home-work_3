@@ -1,0 +1,30 @@
+.wrapper {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-column-gap: 10px;
+  grid-row-gap: 1em;
+}
+.container {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.7);
+  padding: 0.5em;
+}
+.block {
+  display: flex;
+}
+img {
+  max-width: 50%;
+}
+h1,
+h3 {
+  text-align: center;
+}
+span {
+  font-size: 27px;
+  text-shadow: grey 1px 1px;
+}
+a {
+  color: rgb(82, 84, 86);
+  text-decoration: none;
+  font-size: 20px;
+  margin-left: 30px;
+}
